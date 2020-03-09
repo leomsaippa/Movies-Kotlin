@@ -6,7 +6,6 @@ import com.lsaippa.movieskotlin.R
 
 class MainActivity : AppCompatActivity (){
 
-//    lateinit var binding: ActivityMainBinding
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
